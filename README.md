@@ -1,7 +1,7 @@
 # ERVs
 data repository for the study of endogenous retroviruses
 
-ERV_bridge-region.pdb.tar.gz
+ERV_bridge-region.pdb.v2.tar.gz
 pdb files for the predicted structure of the bridge region of representative POL proteins
 
 Fasta_files/Errantivirus_and_vERV_Genomic_Region.fasta
